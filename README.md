@@ -1,2 +1,11 @@
-# Squeeze-Mesh-Compression
-Implementation of the SQUEEZE method for compressing 3D mesh and stream it with minimal loss
+## Creation of obja file
+- Launch squeeze.py with the obj file name as argument. ex : "py squeeze.py suzanne" for the models/suzanne.obj file
+
+
+## Visualisation
+- Launch the server : py obja/server.py
+- Open web page : localhost:8000/?output/suzanne.obja
+
+
+## Change display speed
+- Open js/main.js and change the last value line 10 : 'loader = new Loader(url, 1024, 20);' 
