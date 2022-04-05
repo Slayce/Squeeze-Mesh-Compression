@@ -1,4 +1,4 @@
-The only file by me is 'squeeze.py', the rest comes from https://gitea.tforgione.fr/tforgione/obja
+**The only file by me is 'squeeze.py', the rest comes from https://gitea.tforgione.fr/tforgione/obja**
 
 
 ## Creation of obja file
